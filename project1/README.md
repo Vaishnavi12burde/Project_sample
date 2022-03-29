@@ -1,13 +1,12 @@
-# Project_sample
-Project on Data analysis, visualization etc...
+## Project on Data analysis, visualization etc...
 
 Final Project - Problem Statement
 
-Final Project - Sports Analytics using SQL
+### Sports Analytics using SQL
 
 In this project, I have performed the job of a sports analyst. It  is given two datasets related to IPL (Indian Premier League) cricket matches. One dataset contains ball-by-ball data and the other contains match-wise data. I have imported the datasets into an SQL database and perform the tasks given in this assignment to find important insights from this dataset.
 
-About the Data
+### About the Data
 
 Download the datasets and  I have them ready before we get started.
 
@@ -15,7 +14,7 @@ The first CSV file is for ball-by-ball data and it has information of all the 19
 
 The second file contains match-wise data and has data of 816 IPL matches. This table has 17 columns and below is a short description of the columns in this table:
 
-Write queries for the following tasks:
+### Write queries for the following tasks:
 
 1. Create a table named matches with appropriate data types for columns
 
